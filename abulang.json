@@ -1,9 +1,10 @@
 {
   "owner": {
-    "username": "AbuCodingAI",
-    "email": "abu.shariffaiml@gmail.com"
+    "username": "AbuCodingAI"
   },
   "record": {
-    "CNAME": "abulang.vercel.app"
+    "CNAME": "cname.vercel-dns.com"
   }
 }
+
+
